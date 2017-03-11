@@ -1,5 +1,8 @@
 _repo: The-Bride-of-Lammermoor_471
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -27,6 +30,8 @@ description: "The Bride of Lammermoor is a historical novel by Sir Walter Scott,
   \ edition sets it in the reign of Queen Anne, after the 1707 Acts of Union which\
   \ joined Scotland and England. The story is the basis for Donizetti's 1835 opera\
   \ Lucia di Lammermoor.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/471#The-Bride-of-Lammermoor
 gutenberg_bookshelf:
 - Opera
 - Historical Fiction
